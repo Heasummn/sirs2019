@@ -1,5 +1,5 @@
 # sirs2019
-2019 Sirs Project
+2019 Sirs Project: Efficiently predicting chances of Pneumonia based on an X-Ray picture
 
 To generate models, go into model.py and add a call to train_model for the specific model
 
